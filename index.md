@@ -33,3 +33,4 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{}’
 
 
 ### More Docs coming soon!
+![Data Graph](https://github.com/saladql/nasa-graphql/blob/master/1578247034.png)
